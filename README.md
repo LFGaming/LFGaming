@@ -5,8 +5,9 @@ I like to program in my free time and often look for projects to start or help o
 <br/>
 
 ## my stuff
-[Main Site] <br/>
-[Projects Site] mostly for maps at this point.
+[Main Site] nothing special. Just to make sites.<br/>
+[Projects Site] mostly for maps at this point. <br/>
+[Ingress blog] a blog about the game Ingress.
 
 
 ---
@@ -16,3 +17,4 @@ I like to program in my free time and often look for projects to start or help o
 
 [Main Site]: https://LFGaming.nl
 [Projects Site]: https://LFGaming.nl/projects
+[Ingress Blog]: https://Ingress.LFGaming.nl
