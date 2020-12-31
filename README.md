@@ -1,12 +1,14 @@
 # About me
 
-I like computers, and I just play around with them. I am not a special guy, I am not the best at something, I am just me.
+I like to program in my free time and often look for projects to start or help on, they can be usefull or just odd and for the fun. As long as I have enough fun making it and seeing the result, I am happy.
 
 <br/>
 
 ## my stuff
-[Main Site] <br>
-[Projects Site] mostly for maps.
+[Main Site] <br/>
+[Projects Site] mostly for maps at this point.
+
+
 ---
 
 <br/>
