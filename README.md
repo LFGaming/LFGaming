@@ -4,11 +4,21 @@ I like to program in my free time and often look for projects to start or help o
 
 <br/>
 
-## my stuff
+## My stuff
 [Main Site] nothing special. Just to make sites.<br/>
 [Projects Site] mostly for maps at this point. <br/>
 [Ingress blog] a blog about the game Ingress.
 
+<br/>
+
+## My stats
+[![LFGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFGaming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LFGaming)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight&layout=compact)](https://github.com/LFGaming)
+
+<!--[![LFGaming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LFGaming)](https://github.com/LFGaming)-->
 
 ---
 
