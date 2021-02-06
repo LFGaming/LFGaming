@@ -2,7 +2,7 @@
 
 I like to program in my free time and often look for projects to start or help on, they can be usefull or just odd and for the fun. As long as I have enough fun making it and seeing the result, I am happy.
 
-<br/>
+<br>
 
 ## My stuff
 [Main Site] nothing special. Just to make sites.<br/>
