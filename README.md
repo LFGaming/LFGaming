@@ -19,7 +19,7 @@ I like to program in my free time and often look for projects to start or help o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight&layout=compact)](https://github.com/LFGaming)
 
-<!--[![LFGaming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LFGaming)](https://github.com/LFGaming)-->
+[![LFGaming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
 
 ---
 
