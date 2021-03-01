@@ -26,4 +26,12 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+    plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+    plugin_wakatime_limit: 4                                  # Show 4 entries per graph
