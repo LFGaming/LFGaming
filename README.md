@@ -18,7 +18,8 @@ I like to program in my free time and often look for projects to start or help o
 
 <details>
  <summary>More stats!</summary>
-
+<br>
+ 
 [![LFGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFGaming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LFGaming)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
