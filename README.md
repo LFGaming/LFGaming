@@ -16,6 +16,9 @@ I like to program in my free time and often look for projects to start or help o
 <!--![Metrics](https://metrics.lecoq.io/LFGaming?template=classic&introduction=1&languages=1&lines=1&introduction.title=true&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FAmsterdam)-->
 ![Metrics](https://github.com/LFGaming/LFGaming/blob/master/github-metrics.svg)
 
+<details>
+ <summary>More stats!</summary>
+
 [![LFGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFGaming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LFGaming)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
@@ -23,7 +26,7 @@ I like to program in my free time and often look for projects to start or help o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight&layout=compact)](https://github.com/LFGaming)
 
 [![LFGaming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
-
+</details>
 ---
 
 <br>
