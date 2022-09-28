@@ -6,10 +6,10 @@ I like to program in my free time and often look for projects to start or help o
 
 ## My stuff
 [Main Site] nothing special. Just to make sites.<br/>
+[Photography] For all my photos and urbex adventures. <br/>
 [Projects Site] mostly for maps at this point. <br/>
-[Ingress blog] a blog about the game Ingress. <br>
 [LFGaming.github] my github webpage.
-
+<!-- [Ingress blog] a blog about the game Ingress. <br> -->
 <br/>
 
 ## My stats
@@ -36,6 +36,7 @@ I like to program in my free time and often look for projects to start or help o
 <br/>
 
 [Main Site]: https://LFGaming.nl
+[Photography]: https://LFGaming.nl/photography
 [Projects Site]: https://LFGaming.nl/projects
 [Ingress Blog]: https://Ingress.LFGaming.nl
 [LFGaming.github]: https://lfgaming.github.io/
