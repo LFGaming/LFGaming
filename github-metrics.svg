@@ -40,10 +40,10 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ I like computers, and I just play around with them. I am not a special guy, I am
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            527 Commits
+                            533 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -239,14 +239,14 @@ I like computers, and I just play around with them. I am not a special guy, I am
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.11198912161177" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="297.11198912161177" y="0" width="110.51892617542788" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="407.6309152970396" y="0" width="22.88008450176566" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.5109997988053" y="0" width="15.287829803176102" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.79882960198137" y="0" width="7.590659016643656" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="453.389488618625" y="0" width="4.238929089281874" height="8" fill="#dad8d8"/>
-                    <rect mask="url(#languages-bar)" x="457.62841770790686" y="0" width="1.243435156342142" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="458.87185286424904" y="0" width="1.128147135750907" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.55263151061166" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="296.55263151061166" y="0" width="110.31085782147639" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="406.863489332088" y="0" width="23.70302790561999" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="430.566517237708" y="0" width="15.259048184563664" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.82556542227167" y="0" width="7.576368469479878" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="453.4019338917515" y="0" width="4.230948673359953" height="8" fill="#dad8d8"/>
+                    <rect mask="url(#languages-bar)" x="457.6328825651115" y="0" width="1.2410942042972872" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="458.8739767694088" y="0" width="1.1260232305911864" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -338,7 +338,7 @@ I like computers, and I just play around with them. I am not a special guy, I am
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.36
+                            Average per day at ~0.35
                         </div>
                     </section>
                 </div>
@@ -1336,6 +1336,11 @@ I like computers, and I just play around with them. I am not a special guy, I am
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1353,7 +1358,7 @@ I like computers, and I just play around with them. I am not a special guy, I am
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~1 coding hours recorded
+                            ~2 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1377,18 +1382,18 @@ I like computers, and I just play around with them. I am not a special guy, I am
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Project-Zuil</span>
-                                <div class="bar" style="width: 57.088%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">71%</span>
+                                <div class="bar" style="width: 48.064%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">prog</span>
-                                <div class="bar" style="width: 18.552000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">23%</span>
+                                <div class="bar" style="width: 29.08%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 4.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 2.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -1396,7 +1401,7 @@ I like computers, and I just play around with them. I am not a special guy, I am
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 13:36:10 (timezone Europe/Amsterdam) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 3 Nov 2022, 13:32:17 (timezone Europe/Amsterdam) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
