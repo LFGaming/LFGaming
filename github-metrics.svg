@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -239,14 +239,14 @@ I like computers, and I just play around with them. I am not a special guy, I am
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.02484188574607" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="289.02484188574607" y="0" width="107.51069069165337" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="396.5355325773994" y="0" width="34.77813387639544" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.31366645379484" y="0" width="14.871707482092196" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.185373935887" y="0" width="7.384047438072445" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="453.56942137395947" y="0" width="4.1235488793860515" height="8" fill="#dad8d8"/>
-                    <rect mask="url(#languages-bar)" x="457.6929702533455" y="0" width="1.2095898604410242" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="458.90256011378654" y="0" width="1.0974398862134158" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.8094609870846" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="288.8094609870846" y="0" width="107.43057387876699" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="396.2400348658516" y="0" width="35.09500860265996" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.33504346851157" y="0" width="14.860625106953698" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="446.1956685754652" y="0" width="7.378544856486052" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="453.5742134319513" y="0" width="4.120476016660752" height="8" fill="#dad8d8"/>
+                    <rect mask="url(#languages-bar)" x="457.69468944861205" y="0" width="1.2086884758076006" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="458.90337792441966" y="0" width="1.096622075580332" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1328,6 +1328,11 @@ I like computers, and I just play around with them. I am not a special guy, I am
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1445,7 +1450,7 @@ I like computers, and I just play around with them. I am not a special guy, I am
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.59240246406571 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1586,7 +1591,7 @@ I like computers, and I just play around with them. I am not a special guy, I am
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.35m out of 104m users</span>
+                                    <span class="gh">ranked 2.36m out of 104m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -2074,7 +2079,7 @@ I like computers, and I just play around with them. I am not a special guy, I am
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2022, 13:22:05 (timezone Europe/Amsterdam) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 18 Dec 2022, 13:22:36 (timezone Europe/Amsterdam) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
