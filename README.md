@@ -29,6 +29,8 @@ I like to program in my free time and often look for projects to start or help o
 [![LFGaming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
 </details>
 
+
+
 ---
 
 
