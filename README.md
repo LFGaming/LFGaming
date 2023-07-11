@@ -1,6 +1,6 @@
 # About me
 
-I like to program in my free time and often look for projects to start or help on, they can be usefull or just odd and for the fun. As long as I have enough fun making it and seeing the result, I am happy. Reach me on Discord `LFGaming#5781`
+I like to program in my free time and often look for projects to start or help on, they can be usefull or just odd and for the fun. As long as I have enough fun making it and seeing the result, I am happy. Reach me on Discord `@lfgaming`
 
 <br>
 
