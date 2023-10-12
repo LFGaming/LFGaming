@@ -1,5 +1,5 @@
 # About me
-
+[![wakatime](https://wakatime.com/badge/user/6161d248-566b-45d7-b21d-c43452b9f543.svg)](https://wakatime.com/@6161d248-566b-45d7-b21d-c43452b9f543) </br>
 I like to program in my free time and often look for projects to start or help on, they can be usefull or just odd and for the fun. As long as I have enough fun making it and seeing the result, I am happy. Reach me on Discord `@lfgaming`
 
 <br>
