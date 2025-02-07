@@ -60,5 +60,3 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_projects: yes
-          plugin_projects_limit: 4
