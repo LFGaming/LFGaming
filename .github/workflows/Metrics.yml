@@ -36,7 +36,6 @@ jobs:
           plugin_wakatime_days: 7                                   # Display last week stats
           plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
           plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-          #new plugins
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -55,7 +54,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-
           plugin_code: yes
           plugin_followup: yes
           plugin_followup_archived: yes
