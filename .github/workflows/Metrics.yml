@@ -2,21 +2,23 @@
 #test
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "45 23 * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  push: {branches: ["master", "main"]}
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: LFGaming
