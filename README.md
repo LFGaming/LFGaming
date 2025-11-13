@@ -15,6 +15,7 @@ I like to program in my free time and often look for projects to start or help o
 ## My stats
 <!--![Metrics](https://metrics.lecoq.io/LFGaming?template=classic&introduction=1&languages=1&lines=1&introduction.title=true&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FAmsterdam)-->
 ![Metrics](https://github.com/LFGaming/LFGaming/blob/master/github-metrics.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LFGaming&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
  <summary>More stats!</summary>
@@ -39,3 +40,4 @@ I like to program in my free time and often look for projects to start or help o
 [Projects Site]: https://LFGaming.nl/projects
 [Ingress Blog]: https://Ingress.LFGaming.nl
 [LFGaming.github]: https://lfgaming.github.io/
+
