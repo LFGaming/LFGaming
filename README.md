@@ -21,7 +21,9 @@ I like to program in my free time and often look for projects to start or help o
  <summary>More stats!</summary>
 <br>
 
-![Stats](./profile/stats.svg)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![WakaTime](./profile/wakatime.svg)
  
 [![LFGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFGaming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LFGaming)
 
@@ -43,6 +45,7 @@ I like to program in my free time and often look for projects to start or help o
 [Projects Site]: https://LFGaming.nl/projects
 [Ingress Blog]: https://Ingress.LFGaming.nl
 [LFGaming.github]: https://lfgaming.github.io/
+
 
 
 
