@@ -20,6 +20,8 @@ I like to program in my free time and often look for projects to start or help o
 <details>
  <summary>More stats!</summary>
 <br>
+
+![Stats](./profile/stats.svg)
  
 [![LFGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFGaming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LFGaming)
 
@@ -41,5 +43,6 @@ I like to program in my free time and often look for projects to start or help o
 [Projects Site]: https://LFGaming.nl/projects
 [Ingress Blog]: https://Ingress.LFGaming.nl
 [LFGaming.github]: https://lfgaming.github.io/
+
 
 
