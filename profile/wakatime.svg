@@ -758,7 +758,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 338 hrs 36 mins
+        C++ - 338 hrs 39 mins
       </text>
     </g>
   
@@ -772,7 +772,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 220 hrs 37 mins
+        Markdown - 220 hrs 42 mins
       </text>
     </g>
   
