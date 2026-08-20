@@ -29,17 +29,17 @@ I am also a big fan of wardriving :)
  <summary>More stats!</summary>
 <br>
 
-![GitHub Stats](./profile/stats.svg)
+<!--![GitHub Stats](./profile/stats.svg)-->
 ![Top Languages](./profile/top-langs.svg)
 ![WakaTime](./profile/wakatime.svg)
  
-[![LFGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFGaming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LFGaming)
+<!--[![LFGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFGaming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LFGaming)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFGaming&theme=tokyonight&layout=compact)](https://github.com/LFGaming)
 
-[![LFGaming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)
+[![LFGaming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LFGaming&theme=tokyonight)](https://github.com/LFGaming)-->
 </details>
 
 ---
